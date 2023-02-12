@@ -1,5 +1,5 @@
 # SpringWithMySQL
-This Springboot with MySql and JPA and Hibernate
+This is Springboot with MySql database, and technologies are JPA and Hibernate.
 
 # Install MySQL Database
    Also install my sql workbench
